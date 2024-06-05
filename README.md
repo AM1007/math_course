@@ -1,4 +1,4 @@
-# Програма курсу
+# Програма курсу Mathematics for Computer Science
 
 ## Тема 1
 
